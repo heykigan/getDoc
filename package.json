@@ -1,0 +1,14 @@
+{
+  "name": "getDoc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": "./generator.js",
+  "dependencies": {
+    "commander": "^2.14.1",
+    "docx": "^3.2.0",
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {}
+}
